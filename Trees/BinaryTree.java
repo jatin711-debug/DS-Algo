@@ -1,3 +1,4 @@
+package Trees;
 /**
  * A binary tree is a data structure in which an element has two successors(children). The left
  * child is usually smaller than the parent, and the right child is usually bigger.

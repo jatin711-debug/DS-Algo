@@ -1,3 +1,5 @@
+package Lists;
+
 public class LinkedList{
 
     class Node{
