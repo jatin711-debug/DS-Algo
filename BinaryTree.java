@@ -249,7 +249,5 @@ public class BinaryTree {
         System.out.print(localRoot.data + " ");
       }
     }
-  }public class BinaryTree {
-      
   }
   
